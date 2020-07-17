@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello. I'm Sayed Afif. A software developer. A student. A mentor. A Storyteller 👋 😄 
 
-<!--
-**sayedafif/sayedafif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif)
+
+- Grad Student at University of Florida.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: Developing a virtual assistant on weekdays. A multiplayer game on weekends.
+- 🌱 I’m currently learning: DialogFlow
+- 👯 I’m looking to collaborate on: Anything that can be used to teach/mentor students
+- 🤔 I’m looking for help with: 
+- 💬 Ask me about: Virtual Assistants, Web Development
+- 📫 How to reach me: https://sayedafif.com 
+                     https://www.linkedin.com/in/sayedafif
+                      
+
+![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
