@@ -5,7 +5,6 @@
 - Grad Student at University of Florida.
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: Developing a virtual assistant on weekdays. A multiplayer game on weekends.
 - 🌱 I’m currently learning: DialogFlow
